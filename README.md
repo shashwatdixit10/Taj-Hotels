@@ -1,2 +1,3 @@
 # Taj-Hotels
-This is an Unresponsive Website of Taj Hotels made using HTML CSS .
+This is clone website of TAJ HOTELS. 
+It is made using HTML and CSS.
