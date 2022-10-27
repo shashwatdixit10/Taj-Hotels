@@ -129,18 +129,32 @@ h6{
   color: #d29751;
 
 }
+.container h3{
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 3rem;
+  color: #4c55a8;
+  font-weight: bold;
+
+}
+.Destination img{
+  width: 100%;
+  min-height: 300px;
+}
+
 
 .Fifth{
   height: 485px;
   width: 1352px;
 
 }
-.Destination{
+/* .Destination{
   font-size: 29px;
   font-weight: 100;
   position: absolute;
   left: 528px;
-}
+} */
 
 .popdes{
   height: 300px;
