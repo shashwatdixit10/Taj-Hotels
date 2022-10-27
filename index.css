@@ -51,6 +51,8 @@ h2{
 .third{
   width: 100%;
   background-color: #6610f2;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .third img {
@@ -59,34 +61,41 @@ h2{
   margin-right: 10%;
   margin-top: 5%;
 }
-  
-#One{
+
+.third p{
   position:relative;
+  margin-left: 10%;
+  margin-top: 2%;
+  color: #ffffff;
+  
+}
+/* #One{
+  
   margin-left: 68px;
   bottom: 50px;
-  color: #ffffff;
+  
 }
 #Two{
-  position:relative;
+  
   margin-left: 366px;
   bottom: 84px;
-  color: #ffffff;
+  
 }
 
 #Three{
-  position: relative;
+ 
   margin-left: 1085px;
   bottom: 118px;
-  color: #ffffff;
+  
 }
 
 #Four{
-  position: relative;
+  
   margin-left: 757px;
   bottom: 155px;
-  color: #ffffff;
   
-}
+  
+} */
 
 .fourth{
   height: 545px;
