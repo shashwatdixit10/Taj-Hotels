@@ -86,35 +86,18 @@ h2{
 }
 
 .inside{
-  position: relative;
-  margin-left: 500px;
-  width: 500px;
-  height: 450px;
-  right: 177px;
-  bottom: 43px;
-
+  width: 100%;
 }
 .col-lg-6{
-  text-align: center;
-  font-size: 1rem;
+  text-align: left;
+  
+}
+.col-lg-6 p{
+  margin-left: 20%;
+  font-size: 2rem;
   font-weight: bold;
 }
-/* .para{
-  color: black;
-  font-weight: 400;
-  position: relative;
-  font-size: 20px;
-  top: 150px;
-  right: 240px;
-} */
 
-/* .offer{
-  position: absolute;
-  font-size: 14px;
-  color: black;
-  margin-top: 149px;
-  margin-left: 31px;
-} */
 .btn1 {
   position: absolute;
   margin-top: 242px;
@@ -145,13 +128,6 @@ h2{
   text-decoration: none;
 }
 
-/* .urban1{
-  position: absolute;
-  margin-top: 140px;
-  font-size: 17px;
-  margin-left: 127px;
-  color: black;
-} */
 .urban1:hover{
   background-color: #d29751;
 }
@@ -172,34 +148,6 @@ h2{
   background-color: #d29751;
 }
 
-/* .urban2{
-  position: absolute;
-  margin-top: 190px;
-  margin-left: 127px;
-  font-size: 17px;
-  color: black;
-}
-.urban3{
-  position: absolute;
-  margin-top: 240px;
-  margin-left: 127px;
-  color: black;
-  font-size: 17px;
-}
-.urban4{
-  position: absolute;
-  margin-top: 290px;
-  margin-left: 127px;
-  font-size: 17px;
-  color: black;
-}
-.urban5{
-  position: absolute;
-  margin-top: 340px;
-  margin-left: 127px;
-  font-size: 17px;
-  color: black;
-} */
 h6{
   position: absolute;
   right: 310px;
