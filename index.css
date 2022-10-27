@@ -48,54 +48,12 @@ h2{
     margin: auto;
   }
 
-.third{
-  width: 100%;
-  background-color: #6610f2;
-  display: flex;
-  flex-wrap: wrap;
+
+.col-lg-3{
+  text-align: center;
+  padding-top: 5%;
 }
 
-.third img {
-  position: relative;
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-top: 5%;
-}
-
-.third p{
-  position:relative;
-  margin-left: 10%;
-  margin-top: 2%;
-  color: #ffffff;
-  
-}
-/* #One{
-  
-  margin-left: 68px;
-  bottom: 50px;
-  
-}
-#Two{
-  
-  margin-left: 366px;
-  bottom: 84px;
-  
-}
-
-#Three{
- 
-  margin-left: 1085px;
-  bottom: 118px;
-  
-}
-
-#Four{
-  
-  margin-left: 757px;
-  bottom: 155px;
-  
-  
-} */
 
 .fourth{
   height: 545px;
