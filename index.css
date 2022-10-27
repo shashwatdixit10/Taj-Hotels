@@ -96,7 +96,7 @@ h2{
 }
 .col-lg-6{
   text-align: center;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: bold;
 }
 /* .para{
@@ -108,13 +108,13 @@ h2{
   right: 240px;
 } */
 
-.offer{
+/* .offer{
   position: absolute;
   font-size: 14px;
   color: black;
   margin-top: 149px;
   margin-left: 31px;
-}
+} */
 .btn1 {
   position: absolute;
   margin-top: 242px;
@@ -145,13 +145,13 @@ h2{
   text-decoration: none;
 }
 
-.urban1{
+/* .urban1{
   position: absolute;
   margin-top: 140px;
   font-size: 17px;
   margin-left: 127px;
   color: black;
-}
+} */
 .urban1:hover{
   background-color: #d29751;
 }
@@ -172,7 +172,7 @@ h2{
   background-color: #d29751;
 }
 
-.urban2{
+/* .urban2{
   position: absolute;
   margin-top: 190px;
   margin-left: 127px;
@@ -199,7 +199,7 @@ h2{
   margin-left: 127px;
   font-size: 17px;
   color: black;
-}
+} */
 h6{
   position: absolute;
   right: 310px;
