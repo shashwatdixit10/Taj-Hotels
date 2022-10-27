@@ -64,34 +64,21 @@ h2{
   padding-bottom: 5%;
 }
 
-
-.fourth{
-  height: 545px;
-  width: 100%; 
+.fourth{ 
   color: #4c55a8;
-  text-align: center;
-  
 }
 .fourth h3{
   font-size: 3rem;
   font-weight: bold;
+  margin-top: 5%;
   margin-bottom: 5%;
+  text-align: center;
 }
-
-.insidefourth{
- margin-left: 530px;
-  width: 800px;
-  height: 450px;
-  background-color:#efeeee;
-}
-
 .inside{
   width: 100%;
-  
 }
 .col-lg-6{
   text-align: left;
-  
 }
 .col-lg-6 p{
   margin-left: 20%;
@@ -99,19 +86,9 @@ h2{
   font-weight: bold;
 }
 .col-lg-6 .btn {
-  margin-left: 20%;
+  margin-left: 40%;
 }
 
-/* .btn1 {
-  
-  background: #d29751;
-  border-radius: 12px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 11px;
-  text-decoration: none;
-  margin: auto;
-} */
 
 .btn1:hover {
   background: #d29751;
