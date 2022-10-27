@@ -12,10 +12,22 @@ h2{
     text-align: center;
     color: goldenrod;
 }
-
+.first .btn{
+  position: absolute;
+  top: 13%;
+  right: 13%;
+}
+.first h2{
+  position: absolute;
+  top: 5%;
+  right:7%;
+  font-size: 3rem;
+}
   .Taj{
     width: 100%;
-    margin: auto;
+   position: relative;
+    top: 0%;
+    z-index: -1;
   }
 
 .memo{
@@ -34,61 +46,31 @@ h2{
   padding-bottom: 5%;
 }
 
-
-.fourth{ 
-  color: #4c55a8;
-}
-.fourth h3{
+.offers {
   font-size: 3rem;
   font-weight: bold;
   margin-top: 5%;
   margin-bottom: 5%;
   text-align: center;
+  color: #4c55a8;
 }
 .inside{
   width: 100%;
 }
 .fourth{
-  text-align: left;
+  text-align: center;
+  background-color: #d29751;
 }
 .fourth p{
-  margin-left: 20%;
   font-size: 2rem;
   font-weight: bold;
+  color: black;
+  padding-top: 2%;
 }
-.fourth .btn {
-  margin-left: 20%;
-}
-
-
-.urban1:hover{
-  background-color: #d29751;
+.fourth .btn{
+  margin-top: 3%;
 }
 
-.urban2:hover{
-  background-color: #d29751;
-}
-
-.urban3:hover{
-  background-color: #d29751;
-}
-
-.urban4:hover{
-  background-color: #d29751;
-}
-
-.urban5:hover{
-  background-color: #d29751;
-}
-
-h6{
-  position: absolute;
-  right: 310px;
-  margin-right: 650px;
-  top: 905px;
-  color: #d29751;
-
-}
 .container h3{
   text-align: center;
   margin-top: 5%;
@@ -101,16 +83,15 @@ h6{
 .Destination img{
   width: 100%;
   min-height: 300px;
-  
 }
-
-.Destination .btn {
-  margin: 5%  32% 5%;
-  
-}
-
-.Destination p {
+.Destination{
   text-align: center;
+}
+.Destination .btn {
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+.Destination p {
   font-size: 2rem;
   font-weight: bold;
 }
@@ -127,6 +108,7 @@ h6{
   color: #4c55a8;
   font-weight: bold;
 }
+
 
 .sixth img {
   width: 80%;
@@ -145,8 +127,8 @@ h6{
   text-align: center;
   margin-top: 5%;
   margin-bottom: 5%;
-  font-size: 1rem;
-  color: #4c55a8;
+  font-size: 25px;
+  color: black;
   font-weight: bold;
 }
 
@@ -156,9 +138,6 @@ h6{
   background-color:rgb(239, 238, 238);
 }
 
-/* .seventh p {
-  padding-left: 0%;
-} */
 .dest{
   text-align: center;
   margin-top: 5%;
