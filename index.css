@@ -58,7 +58,7 @@ h2{
 }
 
 .col-lg-3 p {
-  font-size: larger;
+  font-size: 1.2rem;
   font-weight: bold;
   padding-top: 5%;
   padding-bottom: 5%;
@@ -67,10 +67,15 @@ h2{
 
 .fourth{
   height: 545px;
-  width: 1352px;
+  width: 100%; 
   color: #4c55a8;
   text-align: center;
-  font-size: 37px;
+  
+}
+.fourth h3{
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 5%;
 }
 
 .insidefourth{
@@ -89,14 +94,19 @@ h2{
   bottom: 43px;
 
 }
-.para{
+.col-lg-6{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+/* .para{
   color: black;
   font-weight: 400;
   position: relative;
   font-size: 20px;
   top: 150px;
   right: 240px;
-}
+} */
 
 .offer{
   position: absolute;
