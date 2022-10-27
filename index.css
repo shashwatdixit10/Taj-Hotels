@@ -12,7 +12,7 @@ h2{
     text-align: center;
     color: goldenrod;
 }
-.btn {
+/* .btn {
     position:relative;
     margin-left: 1100px;
     bottom: 24px;
@@ -32,7 +32,7 @@ h2{
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-  }
+  } */
   
   .btn:hover {
     background: #d29751;
@@ -87,6 +87,7 @@ h2{
 
 .inside{
   width: 100%;
+  
 }
 .col-lg-6{
   text-align: left;
@@ -97,26 +98,20 @@ h2{
   font-size: 2rem;
   font-weight: bold;
 }
+.col-lg-6 .btn {
+  margin-left: 20%;
+}
 
-.btn1 {
-  position: absolute;
-  margin-top: 242px;
-  margin-left: 107px;
+/* .btn1 {
+  
   background: #d29751;
-  background-image: -webkit-linear-gradient(top, #d29751, #d29751);
-  background-image: -moz-linear-gradient(top, #d29751, #d29751);
-  background-image: -ms-linear-gradient(top, #d29751, #d29751);
-  background-image: -o-linear-gradient(top, #d29751, #d29751);
-  background-image: linear-gradient(to bottom, #d29751, #d29751);
-  -webkit-border-radius: 12;
-  -moz-border-radius: 12;
   border-radius: 12px;
   font-family: Arial;
   color: #ffffff;
   font-size: 11px;
-  padding: 10px 20px 10px 20px;
   text-decoration: none;
-}
+  margin: auto;
+} */
 
 .btn1:hover {
   background: #d29751;
