@@ -44,16 +44,12 @@ h2{
     text-decoration: none;
   }
   .Taj{
-    height: 450px;
-    width: 1353px;
+    width: 100%;
+    margin: auto;
   }
-.first{
-  width: 1350px;
-}
 
 .third{
-  height: 120px;
-  width: 1352px;
+  width: 100%;
   background-color: #6610f2;
 }
 
