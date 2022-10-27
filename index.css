@@ -53,28 +53,13 @@ h2{
   background-color: #6610f2;
 }
 
-.one{
+.third img {
   position: relative;
-  margin-left: 100px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
 }
-
-.two{
-  position: relative;
-  margin-left: 280px;
   
-  }
-
-.three{
-    position: relative;
-    margin-left: 640px;  
-}
-
-.four{
-  position: relative;
-  margin-left: 795px;
-  bottom: 43px; 
-}
-
 #One{
   position:relative;
   margin-left: 68px;
