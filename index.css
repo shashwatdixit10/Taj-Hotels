@@ -48,28 +48,18 @@ h2{
 .inside{
   width: 100%;
 }
-.col-lg-6{
+.fourth{
   text-align: left;
 }
-.col-lg-6 p{
+.fourth p{
   margin-left: 20%;
   font-size: 2rem;
   font-weight: bold;
 }
-.col-lg-6 .btn {
+.fourth .btn {
   margin-left: 20%;
 }
 
-
-.btn1:hover {
-  background: #d29751;
-  background-image: -webkit-linear-gradient(top, #d29751, #d29751);
-  background-image: -moz-linear-gradient(top, #d29751, #d29751);
-  background-image: -ms-linear-gradient(top, #d29751, #d29751);
-  background-image: -o-linear-gradient(top, #d29751, #d29751);
-  background-image: linear-gradient(to bottom, #d29751, #d29751);
-  text-decoration: none;
-}
 
 .urban1:hover{
   background-color: #d29751;
@@ -111,26 +101,56 @@ h6{
 .Destination img{
   width: 100%;
   min-height: 300px;
+  
 }
 
 .Destination .btn {
+  margin: 5%  32% 5%;
+  
+}
+
+.Destination p {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.d-block{
+  width: 500px;
+}
+
+.explore {
+  text-align: center;
   margin-top: 5%;
-  margin-left: 30%;
+  margin-bottom: 5%;
+  font-size: 3rem;
+  color: #4c55a8;
+  font-weight: bold;
 }
 
-.Fifth{
-  height: 485px;
-  width: 1352px;
-
+.sixth img {
+  width: 80%;
+  margin-left: 10%;
 }
-/* .Destination{
-  font-size: 29px;
-  font-weight: 100;
-  position: absolute;
-  left: 528px;
-} */
+.sixth .heading{
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 2rem;
+  color: #4c55a8;
+  font-weight: bold;
+}
 
-.popdes{
+.sixth .content{
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 1rem;
+  color: #4c55a8;
+  font-weight: bold;
+}
+
+/* .popdes{
   height: 300px;
   width: 275px;
   position: absolute;
@@ -423,4 +443,4 @@ element.style{
   width: 65px;
   margin-left: 1050px;
   bottom: 545px;
-}
+} */
