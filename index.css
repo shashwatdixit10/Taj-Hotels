@@ -12,9 +12,35 @@ h2{
     text-align: center;
     color: goldenrod;
 }
-.btn{
-    margin-top: 145px;
-    margin-right: 71px;
+.btn {
+  margin-top: 10%;
+  margin-right: 7%;
+
+
+  background: #d29751;
+  background-image: -webkit-linear-gradient(top, #d29751, #d29751);
+  background-image: -moz-linear-gradient(top, #d29751, #d29751);
+  background-image: -ms-linear-gradient(top, #d29751, #d29751);
+  background-image: -o-linear-gradient(top, #d29751, #d29751);
+  background-image: linear-gradient(to bottom, #d29751, #d29751);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d29751;
+  background-image: -webkit-linear-gradient(top, #d29751, #d29751);
+  background-image: -moz-linear-gradient(top, #d29751, #d29751);
+  background-image: -ms-linear-gradient(top, #d29751, #d29751);
+  background-image: -o-linear-gradient(top, #d29751, #d29751);
+  background-image: linear-gradient(to bottom, #d29751, #d29751);
+  text-decoration: none;
 }
 .first .btn{
   position: absolute;
