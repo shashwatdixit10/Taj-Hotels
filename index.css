@@ -12,6 +12,10 @@ h2{
     text-align: center;
     color: goldenrod;
 }
+.btn{
+    margin-top: 145px;
+    margin-right: 71px;
+}
 .first .btn{
   position: absolute;
   top: 13%;
